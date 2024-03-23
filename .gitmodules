@@ -1,3 +1,6 @@
 [submodule "CSE222/CSE222-HW1"]
 	path = CSE222/CSE222-HW1
 	url = https://github.com/e-altunel/CSE222-HW1.git
+[submodule "CSE344/CSE344-HW1"]
+	path = CSE344/CSE344-HW1
+	url = https://github.com/e-altunel/CSE344-HW1.git
