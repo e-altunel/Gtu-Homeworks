@@ -10,3 +10,6 @@
 [submodule "CSE222/CSE222-HW3"]
 	path = CSE222/CSE222-HW3
 	url = https://github.com/e-altunel/CSE222-HW3.git
+[submodule "CSE312/Quiz3/SemaphoreTest"]
+	path = CSE312/Quiz3/SemaphoreTest
+	url = https://github.com/e-altunel/SemaphoreTest.git
