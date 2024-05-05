@@ -16,3 +16,6 @@
 [submodule "CSE344/CSE344-Midterm"]
 	path = CSE344/CSE344-Midterm
 	url = https://github.com/e-altunel/CSE344-Midterm.git
+[submodule "CSE344/CSE344-HW2"]
+	path = CSE344/CSE344-HW2
+	url = https://github.com/e-altunel/CSE344-HW2.git
