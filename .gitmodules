@@ -13,3 +13,6 @@
 [submodule "CSE312/Quiz3/SemaphoreTest"]
 	path = CSE312/Quiz3/SemaphoreTest
 	url = https://github.com/e-altunel/SemaphoreTest.git
+[submodule "CSE344/CSE344-Midterm"]
+	path = CSE344/CSE344-Midterm
+	url = https://github.com/e-altunel/CSE344-Midterm.git
