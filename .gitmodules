@@ -22,3 +22,9 @@
 [submodule "CSE222/CSE222-HW6"]
 	path = CSE222/CSE222-HW6
 	url = https://github.com/e-altunel/CSE222-HW6.git
+[submodule "CSE222/CSE222-HW5"]
+	path = CSE222/CSE222-HW5
+	url = https://github.com/e-altunel/CSE222-HW5.git
+[submodule "CSE312/CSE312-Project1"]
+	path = CSE312/CSE312-Project1
+	url = https://github.com/e-altunel/CSE312-Project1.git
