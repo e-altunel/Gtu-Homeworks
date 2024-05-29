@@ -34,3 +34,6 @@
 [submodule "CSE222/CSE222-HW4"]
 	path = CSE222/CSE222-HW4
 	url = https://github.com/e-altunel/CSE222-HW4.git
+[submodule "CSE222/CSE222-HW8"]
+	path = CSE222/CSE222-HW8
+	url = https://github.com/e-altunel/CSE222-HW8
